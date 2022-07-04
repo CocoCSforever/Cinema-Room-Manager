@@ -125,21 +125,4 @@ public void statistics(){
           }
         }
 
-
-            /*for(int j=1;j<9;j++){
-                seats[0][j]=(char)j;
-            }
-            for(int i=1;i<8;i++){
-            seats[i][0]=(char)i;
-            }
-
-            for(int i=1;i<8;i++){
-            for(int j=1;j<9;j++){
-                seats[i][j]='S';
-            }
-            }
-            for(int i=0;i<8;i++){
-                System.out.println(seats[i]);
-            }*/
-
     }
