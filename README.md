@@ -21,7 +21,7 @@ As a beginner developer, you can contribute to creating this wonderful cinema ex
 
 3. Requirements
 
-A. Overview:
+A. Overview
 
 At the start, your program should read two positive integer numbers that represent the number of rows and seats in each row. Then, it should print a menu with the following four items:
 
@@ -47,9 +47,13 @@ The total income that shows how much money the theatre will get if all the ticke
 
 · Exit should stop the program.
 
+
+
 B. Show the seats
 
 “Show the seats” should print the current seating arrangement. The empty seats should be marked with an “S” symbol, and taken seats are marked with a “B” symbol.
+
+
 
 C. buy a ticket
 
@@ -67,6 +71,8 @@ In a larger room, the tickets are 10 dollars for the front half of the rows and 
 
 After that, the program should print out all the seats in the screen room as shown in the example and mark the chosen seat by the B symbol. Finally, it should print the ticket price. 
 
+
+
 D. Statistics
 
 “Statistics” should print the following information:
@@ -79,9 +85,12 @@ D. Statistics
 
 (4) The total income that shows how much money the theatre will get if all the tickets are sold. The ticket price is determined by the same rule.
 
+
+
 E. Exit
 
 “Exit” should stop the program.
+
 
 
 F. Examples
