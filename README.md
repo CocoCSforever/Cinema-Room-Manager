@@ -13,7 +13,7 @@ As a beginner developer, you can contribute to creating this wonderful cinema ex
 
 (2) Buy tickets and display the current state of the seating arrangement when needed. 
 
-(3) A user can buy a ticket that has already been purchased by another user.
+(3) A user cannot buy a ticket that has already been purchased by another user.
 
 (4) The stats will show the current income, total income, the number of available seats, and the percentage of occupancy.
 
